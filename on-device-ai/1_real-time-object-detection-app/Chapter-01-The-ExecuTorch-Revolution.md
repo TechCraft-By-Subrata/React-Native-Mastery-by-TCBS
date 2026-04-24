@@ -59,5 +59,3 @@ We are moving away from **"Cloud-First"** AI to **"Edge-First"** AI.
 **In the next chapter, we’ll move from theory to logic: How do computers actually "see" objects, and what exactly are "Bounding Boxes"?**
 
 ---
-
-**How does this look for Chapter 1?** I've integrated the PyTorch background and clarified the `.pte` approach. Ready for Chapter 2?
