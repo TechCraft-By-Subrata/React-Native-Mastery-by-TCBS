@@ -9,7 +9,7 @@ That changed with **ExecuTorch**.
 ---
 
 ### 🔥 The Foundation: What is PyTorch?
-Before we dive into the mobile side, we have to talk about the "parent" technology: **PyTorch**.
+Before we dive into the Executor, we have to talk about the "parent" technology: **PyTorch**.
 
 Created by Meta’s AI Research lab, PyTorch is one of the most popular open-source machine learning frameworks in the world. It is the industry standard for researchers and engineers to **train** AI models. If you’ve heard of GPT-4, Llama 3, or stable diffusion, chances are they were built or experimented with using PyTorch.
 
