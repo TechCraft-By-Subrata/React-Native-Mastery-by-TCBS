@@ -9,12 +9,50 @@ Build the next generation of mobile apps with real-time, serverless intelligence
 Have you ever wanted to build apps that "see" and "understand" the world in real-time? Usually, this requires expensive cloud GPUs, complex APIs, and high latency. Not anymore.
 With the arrival of ExecuTorch, Meta’s cutting-edge on-device AI engine, you can now run industry-standard PyTorch models directly on a user’s phone. No internet required. Zero latency. Total privacy.
 
-## Why join this course?
-In this micro-course, we strip away the academic jargon and get straight to building. You’ll go from "What is a tensor?" to deploying a Real-Time Object Detection app that identifies objects at lightning speed using your phone's camera.
+---
 
-* Native Performance: Leverage the power of C++ and the New Architecture in React Native.
-* Production Ready: Learn the workflow used by top-tier engineering teams at Meta and Software Mansion.
-* Portfolio Gold: Build a high-impact AI project that stands out in the crowded React Native job market.
+## 🌎 Real-World Impact: What Can You Build?
+
+Mastering On-Device AI isn't just about moving bounding boxes on a screen—it’s about solving high-value problems that traditional cloud-based apps simply can't touch. By the end of this course, you'll have the foundation to build:
+
+| Industry | Use Case | The On-Device Advantage |
+| :--- | :--- | :--- |
+| **🛒 Smart Retail** | **Instant Inventory Scanners** | Identify products on shelves in real-time, even in "dead zones" like basement warehouses with **zero Wi-Fi**. |
+| **🏥 Healthcare** | **Accessibility Assistants** | Help visually impaired users navigate their world by identifying objects (chairs, doors, signs) with **zero latency**. |
+| **🏗️ Industrial** | **Safety Compliance Monitors** | Detect if workers are wearing safety gear (vests, helmets) while ensuring **total privacy**—data never leaves the site. |
+| **🚗 Transport** | **Intelligent Parking Systems** | High-speed vehicle or license plate detection that runs 24/7 **without expensive monthly cloud bills**. |
+
+### 🚀 From "Project" to "Product"
+The skills you learn in this course are directly transferable to industries currently desperate for AI talent. Whether you're building a niche startup tool or an enterprise-grade mobile solution, **RN Mastery** gives you the blueprint to deliver high-performance intelligence without the infrastructure overhead.
+
+---
+That’s a smart move. For a micro-course, you want the header to promise a specific **transformation** rather than a general education.
+
+Since this course is about **giving the app eyes** using ExecuTorch, here are three specific, punchy titles that focus on the "superpowers" of this particular tech:
+
+### Option 1: The "Intelligence" Angle (Most Professional)
+> ## 🧠 Give Your App a Brain, Not a Data Plan
+> *(Focuses on the fact that the AI lives on the device, independent of the cloud.)*
+
+### Option 2: The "Performance" Angle (Most Technical)
+> ## ⚡️ Master Real-Time Inference on the Edge
+> *(Focuses on the "Real-Time" 30+ FPS speed which is the main selling point of ExecuTorch.)*
+
+### Option 3: The "Capabilities" Angle (Most Exciting)
+> ## 👁️ Build Apps That See in Real-Time
+> *(Focuses on the immediate visual result of the Object Detection app.)*
+
+---
+
+## 👁️ Build Apps That See in Real-Time
+In this micro-course, we strip away the academic jargon and get straight to building. You’ll go from "What is a tensor?" to deploying a **Real-Time Object Detection app** that identifies objects at lightning speed using your phone's camera.
+
+* **Native Performance:** Leverage the power of C++ and the New Architecture in React Native.
+* **Production Ready:** Learn the workflow used by top-tier engineering teams at Meta and Software Mansion.
+* **Portfolio Gold:** Build a high-impact AI project that stands out in the crowded React Native job market.
+
+### From "Project" to "Product"
+The skills you learn in this course are directly transferable to industries currently desperate for AI talent. Whether you're building a niche startup tool or an enterprise-grade mobile solution, **RN Mastery** gives you the blueprint to deliver high-performance intelligence without the infrastructure overhead.
 
 ------------------------------
 ## 📚 Course Curriculum
