@@ -31,9 +31,6 @@ In this micro-course, we strip away the academic jargon and get straight to buil
 * **Production Ready:** Learn the workflow used by top-tier engineering teams at Meta and Software Mansion.
 * **Portfolio Gold:** Build a high-impact AI project that stands out in the crowded React Native job market.
 
-### From "Project" to "Product"
-The skills you learn in this course are directly transferable to industries currently desperate for AI talent. Whether you're building a niche startup tool or an enterprise-grade mobile solution, **RN Mastery** gives you the blueprint to deliver high-performance intelligence without the infrastructure overhead.
-
 ------------------------------
 ## 📚 Course Curriculum
 
